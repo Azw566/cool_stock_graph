@@ -1,0 +1,8 @@
+C:\Users\telem\quant\test\target\debug\deps\indoc-4e87eb776afdabe2.d: C:\Users\telem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\indoc-2.0.7\src\lib.rs C:\Users\telem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\indoc-2.0.7\src\error.rs C:\Users\telem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\indoc-2.0.7\src\expr.rs C:\Users\telem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\indoc-2.0.7\src\unindent.rs
+
+C:\Users\telem\quant\test\target\debug\deps\indoc-4e87eb776afdabe2.dll: C:\Users\telem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\indoc-2.0.7\src\lib.rs C:\Users\telem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\indoc-2.0.7\src\error.rs C:\Users\telem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\indoc-2.0.7\src\expr.rs C:\Users\telem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\indoc-2.0.7\src\unindent.rs
+
+C:\Users\telem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\indoc-2.0.7\src\lib.rs:
+C:\Users\telem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\indoc-2.0.7\src\error.rs:
+C:\Users\telem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\indoc-2.0.7\src\expr.rs:
+C:\Users\telem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\indoc-2.0.7\src\unindent.rs:

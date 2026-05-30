@@ -1,0 +1,1 @@
+C:\Users\telem\quant\test\target\release\trading_tui.exe: C:\Users\telem\quant\test\src\app.rs C:\Users\telem\quant\test\src\data.rs C:\Users\telem\quant\test\src\main.rs C:\Users\telem\quant\test\src\ui.rs
