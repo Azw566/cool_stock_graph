@@ -12,17 +12,30 @@ This TUI is the front-end that ties it all together: one terminal window that ca
 
 ---
 
+## Quick start
+
+```powershell
+# 1. Install Rust (skip if already installed)
+winget install Rustlang.Rustup
+
+# 2. Open a new terminal so cargo is on PATH, then:
+cd C:\Users\telem\quant\cool_stock_graph
+cargo run --release
+```
+
+---
+
 ## Launch
 
 **Pre-built binary (after first `cargo build --release`)**
 ```
-cd C:\Users\telem\quant\test
+cd C:\Users\telem\quant\cool_stock_graph
 target\release\trading_tui.exe
 ```
 
 **Rebuild and run**
 ```
-cd C:\Users\telem\quant\test
+cd C:\Users\telem\quant\cool_stock_graph
 cargo run --release
 ```
 
